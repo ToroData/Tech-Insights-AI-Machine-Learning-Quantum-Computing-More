@@ -30,6 +30,10 @@ This repository features a collection of LinkedIn posts and accompanying PDFs co
 
 ## Latest Articles
 
+- **Title:** Explaining the Paper: Stealing Part of a Production Language Model
+  - **Description:** Google has published a paper on a type of attack targeting language models such as GPT and PaLM-2. This type of attack allows adversaries to retrieve critical parts of these models by querying public APIs. In this document, I provide a brief explanation of the work of Carlini, N. et al., in a more accessible way, including additional basic explanations to facilitate understanding of the article.
+  - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_explaining-stealing-from-a-production-language-activity-7240001554345295873-1-2p?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/Explaining_the_Paper_Stealing_Part_of_a_Production_Language_Model.pdf)
+
 - **Diffusion Towards a Heterogeneous Catalyst: An Approach From the Informal to the Formal**
   - **Description:** Detailed analysis on diffusion towards a heterogeneous catalyst and its impact on mass transfer processes.
   - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_diffusion-towards-a-heterogeneous-catalyst-activity-7238130632697016321-J0WM?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/Diffusion_towards_a_heterogeneous_catalyst__an_approach_from_the_informal_to_the_formal.pdf)
@@ -43,6 +47,10 @@ This repository features a collection of LinkedIn posts and accompanying PDFs co
 
 <details>
 <summary>Artificial Intelligence (AI) & Machine Learning (ML) & Data Science</summary>
+
+- **Title:** Explaining the Paper: Stealing Part of a Production Language Model
+  - **Description:** Google has published a paper on a type of attack targeting language models such as GPT and PaLM-2. This type of attack allows adversaries to retrieve critical parts of these models by querying public APIs. In this document, I provide a brief explanation of the work of Carlini, N. et al., in a more accessible way, including additional basic explanations to facilitate understanding of the article.
+  - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_explaining-stealing-from-a-production-language-activity-7240001554345295873-1-2p?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/Explaining_the_Paper_Stealing_Part_of_a_Production_Language_Model.pdf)
 
 - **Chat-GPT Prompt Injection Hacking: It Can Give You Ideas About Explosives**
   - **Description:** This article explores the fascinating yet critical topic of AI capabilities and limitations, focusing on security and safety. It examines how advanced language models like Chat-GPT can provide information on explosives, from components to legal procurement methods, while emphasizing that the goal is to highlight potential risks rather than promote harmful activities. The piece underscores the need for robust safety and ethical guidelines in AI development and the importance of continuous monitoring to prevent misuse.
