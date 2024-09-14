@@ -1,5 +1,7 @@
 # Tech Insights: AI, Machine Learning, Quantum Computing & More
 
+<img width="1359" alt="Captura de pantalla 2024-09-14 184710" src="https://github.com/user-attachments/assets/dfdf34d5-ca7f-4bc9-9126-b723056d5615">
+
 Welcome to the Tech Insights repository! This repository is dedicated to aggregating and sharing insightful posts on advanced and emerging technologies. Each post is crafted to be accessible to professionals from various fields, offering a deep dive into complex topics while remaining understandable.
 
 ## Table of Contents
