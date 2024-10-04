@@ -32,7 +32,11 @@ This repository features a collection of LinkedIn posts and accompanying PDFs co
 
 ## Latest Articles
 
-- **Title:** Explaining the Paper: Stealing Part of a Production Language Model
+- **Time-Independent Perturbation Theory Applied to a Spin-1/2 Particlem**
+  - **Description:** This review examines the application of the first-order time-independent perturbation theory to a spin 1/2 particle. Energy corrections and eigenstates are derived using a perturbative Hamiltonian that includes a small perturbation in the spin direction \(S_y \). The main goal of this paper is to present how a degenerate two-level system can be analysed systematically using principles of quantum mechanics and perturbation theory.
+  - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_time-independent-perturbation-theory-activity-7248004191472742400-1oSk?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/Time_Independent_Perturbation_Theory_Applied_to_a_Spin_1_2_Particle.pdf)
+
+- **Explaining the Paper: Stealing Part of a Production Language Model**
   - **Description:** Google has published a paper on a type of attack targeting language models such as GPT and PaLM-2. This type of attack allows adversaries to retrieve critical parts of these models by querying public APIs. In this document, I provide a brief explanation of the work of Carlini, N. et al., in a more accessible way, including additional basic explanations to facilitate understanding of the article.
   - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_explaining-stealing-from-a-production-language-activity-7240001554345295873-1-2p?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/Explaining_the_Paper_Stealing_Part_of_a_Production_Language_Model.pdf)
 
@@ -50,7 +54,7 @@ This repository features a collection of LinkedIn posts and accompanying PDFs co
 <details>
 <summary>Artificial Intelligence (AI) & Machine Learning (ML) & Data Science</summary>
 
-- **Title:** Explaining the Paper: Stealing Part of a Production Language Model
+- **Explaining the Paper: Stealing Part of a Production Language Model**
   - **Description:** Google has published a paper on a type of attack targeting language models such as GPT and PaLM-2. This type of attack allows adversaries to retrieve critical parts of these models by querying public APIs. In this document, I provide a brief explanation of the work of Carlini, N. et al., in a more accessible way, including additional basic explanations to facilitate understanding of the article.
   - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_explaining-stealing-from-a-production-language-activity-7240001554345295873-1-2p?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/Explaining_the_Paper_Stealing_Part_of_a_Production_Language_Model.pdf)
 
@@ -112,9 +116,6 @@ This repository features a collection of LinkedIn posts and accompanying PDFs co
   - **Description:** Google Quantum AI has demonstrated a quantum memory system that reduces error rates, showcasing the potential for a fault-tolerant quantum computer. This post includes a brief introduction with basic concepts and highlights of the paper, written in an accessible way for both experts and non-experts.
   - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_googles-quantum-ai-research-explained-activity-7235368059232763904-pPze?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/QUANTUM%20ERROR%20CORRECTION%20BELOW%20THE%20SURFACE%20CODE%20THRESHOLD.pdf)
 
-- **Schrödinger Equation for the Hydrogen Atom**
-  - **Description:** In this brief article, I derive the general equation for the wave function of the hydrogen atom by solving the Schrödinger equation in spherical coordinates.
-  - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_schr%C3%B6dinger-equation-for-the-hydrogen-atom-activity-7246159033059971072-Oqt1?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/Schrödinger%20Equation%20for%20the%20Hydrogen%20Atom.pdf)
 
 - **Discovering the quantum leap: a journey from theory to practice**
   - **Description:** As we embark on this journey through the realms of quantum computing and its transformative potential for superconducting hardware, it’s crucial to bridge the gap between the highly technical and the broadly accessible.
@@ -130,6 +131,17 @@ This repository features a collection of LinkedIn posts and accompanying PDFs co
 
 </details>
 
+<details>
+<summary>Physics (AMO, Quantum Mechanics, etc.)</summary>
+
+- **Time-Independent Perturbation Theory Applied to a Spin-1/2 Particlem**
+  - **Description:** This review examines the application of the first-order time-independent perturbation theory to a spin 1/2 particle. Energy corrections and eigenstates are derived using a perturbative Hamiltonian that includes a small perturbation in the spin direction \(S_y \). The main goal of this paper is to present how a degenerate two-level system can be analysed systematically using principles of quantum mechanics and perturbation theory.
+  - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_time-independent-perturbation-theory-activity-7248004191472742400-1oSk?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/Time_Independent_Perturbation_Theory_Applied_to_a_Spin_1_2_Particle.pdf)
+
+- **Schrödinger Equation for the Hydrogen Atom**
+  - **Description:** In this brief article, I derive the general equation for the wave function of the hydrogen atom by solving the Schrödinger equation in spherical coordinates.
+  - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_schr%C3%B6dinger-equation-for-the-hydrogen-atom-activity-7246159033059971072-Oqt1?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/Schrödinger%20Equation%20for%20the%20Hydrogen%20Atom.pdf)
+</details>
 
 
 ## Most Impact
