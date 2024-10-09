@@ -32,7 +32,7 @@ This repository features a collection of LinkedIn posts and accompanying PDFs co
 
 ## Latest Articles
 
-- **Time-Independent Perturbation Theory Applied to a Spin-1/2 Particlem**
+- **Time-Independent Perturbation Theory Applied to a Spin-1/2 Particle**
   - **Description:** This review examines the application of the first-order time-independent perturbation theory to a spin 1/2 particle. Energy corrections and eigenstates are derived using a perturbative Hamiltonian that includes a small perturbation in the spin direction \(S_y \). The main goal of this paper is to present how a degenerate two-level system can be analysed systematically using principles of quantum mechanics and perturbation theory.
   - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_time-independent-perturbation-theory-activity-7248004191472742400-1oSk?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/Time_Independent_Perturbation_Theory_Applied_to_a_Spin_1_2_Particle.pdf)
 
@@ -134,7 +134,11 @@ This repository features a collection of LinkedIn posts and accompanying PDFs co
 <details>
 <summary>Physics (AMO, Quantum Mechanics, etc.)</summary>
 
-- **Time-Independent Perturbation Theory Applied to a Spin-1/2 Particlem**
+- **Perturbative Corrections for the Anharmonic Oscillator**
+  - **Description:** In this work, a detailed analysis of the anharmonic oscillator with its Hamiltonian is presented and the ground state energy corrections up to the second order in the parameter $\lambda$ are studied.
+  - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_perturbative-corrections-for-the-anharmonic-activity-7249816382937194496-TzPi?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/Perturbative_Corrections_for_the_Anharmonic_Oscillator.pdf)
+
+- **Time-Independent Perturbation Theory Applied to a Spin-1/2 Particle**
   - **Description:** This review examines the application of the first-order time-independent perturbation theory to a spin 1/2 particle. Energy corrections and eigenstates are derived using a perturbative Hamiltonian that includes a small perturbation in the spin direction \(S_y \). The main goal of this paper is to present how a degenerate two-level system can be analysed systematically using principles of quantum mechanics and perturbation theory.
   - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_time-independent-perturbation-theory-activity-7248004191472742400-1oSk?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/Time_Independent_Perturbation_Theory_Applied_to_a_Spin_1_2_Particle.pdf)
 
