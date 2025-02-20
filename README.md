@@ -43,6 +43,11 @@ This repository features a collection of LinkedIn posts and accompanying PDFs co
 
 ## Latest Articles
 
+- **Symmetries in Quantum Mechanics: from Klein-Gordon Equation to Higgs Mechanism**  
+  - **Description:** Symmetry has guided the development of advances in physics, from early quantum theory to modern field theories. The challenge is to understand the relationship of quantum mechanics to relativistic invariance and ultimately to apply it to particle mass generation. By tracing the historical developments from the Klein-Gordon equation to spontaneous symmetry breaking, the unifying role of symmetry among the different formulations is demonstrated. First, the 0-spin relativistic Klein-Gordon wave equation is derived. Second, the Dirac equation is derived from it. Third, by introducing gauge principles, the Higgs mechanism is naturally arrived at, explaining massive gauge bosons in the Standard Model. The paper shows the central role of symmetry both from a historical perspective and the implication in modern frameworks.
+  - **Link:**  
+    [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14774610.svg)](https://doi.org/10.5281/zenodo.14774610) [Read Paper](https://doi.org/10.5281/zenodo.14774610) | [Download PDF](pdf/Symmetries_in_Quantum_Mechanics__from_Klein_Gordon_Equation_to_Higgs_Mechanism.pdf)
+
 - **Time-Independent Perturbation Theory Applied to a Spin-1/2 Particle**
   - **Description:** This review examines the application of the first-order time-independent perturbation theory to a spin 1/2 particle. Energy corrections and eigenstates are derived using a perturbative Hamiltonian that includes a small perturbation in the spin direction \(S_y \). The main goal of this paper is to present how a degenerate two-level system can be analysed systematically using principles of quantum mechanics and perturbation theory.
   - **Link:** [Read Post](https://www.linkedin.com/posts/ricard-santiago-raigada-garc%C3%ADa_time-independent-perturbation-theory-activity-7248004191472742400-1oSk?utm_source=share&utm_medium=member_desktop) | [Download PDF](pdf/Time_Independent_Perturbation_Theory_Applied_to_a_Spin_1_2_Particle.pdf)
@@ -144,6 +149,11 @@ This repository features a collection of LinkedIn posts and accompanying PDFs co
 
 <details>
 <summary>Physics (AMO, Quantum Mechanics, etc.)</summary>
+
+- **Symmetries in Quantum Mechanics: from Klein-Gordon Equation to Higgs Mechanism**  
+  - **Description:** Symmetry has guided the development of advances in physics, from early quantum theory to modern field theories. The challenge is to understand the relationship of quantum mechanics to relativistic invariance and ultimately to apply it to particle mass generation. By tracing the historical developments from the Klein-Gordon equation to spontaneous symmetry breaking, the unifying role of symmetry among the different formulations is demonstrated. First, the 0-spin relativistic Klein-Gordon wave equation is derived. Second, the Dirac equation is derived from it. Third, by introducing gauge principles, the Higgs mechanism is naturally arrived at, explaining massive gauge bosons in the Standard Model. The paper shows the central role of symmetry both from a historical perspective and the implication in modern frameworks.
+  - **Link:**  
+    [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14774610.svg)](https://doi.org/10.5281/zenodo.14774610) [Read Paper](https://doi.org/10.5281/zenodo.14774610) | [Download PDF](pdf/Symmetries_in_Quantum_Mechanics__from_Klein_Gordon_Equation_to_Higgs_Mechanism.pdf)
 
 - **Perturbative Corrections for the Anharmonic Oscillator**
   - **Description:** In this work, a detailed analysis of the anharmonic oscillator with its Hamiltonian is presented and the ground state energy corrections up to the second order in the parameter $\lambda$ are studied.
